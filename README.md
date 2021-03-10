@@ -1,6 +1,4 @@
-# js_classes_and_jest_example
-
-Here are some links that I found helpful for classes, jest, inquirer and debugging node.js in visual studio code:
+# Here are some links that I found helpful for classes, jest, inquirer and debugging node.js in visual studio code:
 
 Classes:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
